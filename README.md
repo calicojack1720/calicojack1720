@@ -6,7 +6,7 @@ Currently studying cybersecurity at St. Vincent college. Looking to learn more a
     - Security and exploitation - ![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?logo=tryhackme&logoColor=white) ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?logo=hackthebox&logoColor=green)
     - Scripting 📜
     - Programming 👨‍💻
-    - Malware development 💀
+    - Malware analysis 🔍
     - Information security 🏰
     - Cryptography 🔐
     - Computer history 🖥️
