@@ -1,3 +1,5 @@
+![tryhackme stats](https://raw.githubusercontent.com/calicojack1720/calicojack1720/master/assets/thm_propic.png)
+
 # 🏴‍☠️ About Me 🏴‍☠️
 
 Currently studying cybersecurity at St. Vincent college. Looking to learn more about programming and IT in general to develop my skills. More coming soon (hopefully)!
