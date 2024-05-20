@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F70000&multiline=true&random=false&width=435&height=60&lines=We+would+be+honored;If+you+would+join+us)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F723&multiline=true&random=false&width=435&height=100&lines=Science+fiction+does+not+remain;fiction+for+long.;-+Vint+Serf)](https://git.io/typing-svg)
 
 ![tryhackme badge](https://tryhackme-badges.s3.amazonaws.com/calicojack1720.png)
 
