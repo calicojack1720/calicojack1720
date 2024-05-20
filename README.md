@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=F70000&multiline=true&random=false&width=435&height=60&lines=We+would+be+honored;If+you+would+join+us)](https://git.io/typing-svg)
 
-![tryhackme stats](https://raw.githubusercontent.com/calicojack1720/calicojack1720/master/assets/thm_propic.png)
-
 ![tryhackme badge](https://tryhackme-badges.s3.amazonaws.com/calicojack1720.png)
 
 # 🏴‍☠️ About Me 🏴‍☠️
