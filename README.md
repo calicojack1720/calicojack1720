@@ -14,7 +14,10 @@ Currently studying cybersecurity at St. Vincent college and on my own. Looking t
     - Information security 🏰
     - Cryptography 🔐
     - Computer history 🖥️
-    - But most of all, Samy is my hero
+ - 📚 Currently Reading:
+
+![414h78RwW-L-3275162771](https://github.com/calicojack1720/calicojack1720/assets/93363006/8d4f2601-d0a0-4e17-8185-55f9ec6f85e5)
+
 
 # 👾 Languages 👾
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](#) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](#) [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#) [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](#)
