@@ -28,8 +28,8 @@ Currently studying cybersecurity at St. Vincent college and on my own. Looking t
 
 # 📊 Stats 📊
 <div align="center">
-    <img src="https://raw.githubusercontent.com/calicojack1720/calicojack1720/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+    </div>
+![snake animation](https://github.com/calicojack1720/calicojack1720/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calicojack1720&theme=github_dark" alt="calicojack1720's GitHub Stats"/>
