@@ -14,9 +14,6 @@ Currently studying cybersecurity at St. Vincent college and on my own. Looking t
     - Information security 🏰
     - Cryptography 🔐
     - Computer history 🖥️
- - 📚 Currently Reading:
-
-![414h78RwW-L-3275162771](https://github.com/calicojack1720/calicojack1720/assets/93363006/8d4f2601-d0a0-4e17-8185-55f9ec6f85e5)
 
 
 # 👾 Languages 👾
