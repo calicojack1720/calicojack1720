@@ -9,7 +9,7 @@
 <div align="left"
 </div>
 
-Currently studying cybersecurity at St. Vincent college and on my own. Looking to learn more about programming and IT in general to develop my skills. More coming soon (hopefully)!
+Currently studying cybersecurity at St. Vincent college and on my own. Looking to learn more about programming and IT in general to develop my skills.
 
  - 🔭 Interests:
     - Security and exploitation - ![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?logo=tryhackme&logoColor=white) ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?logo=hackthebox&logoColor=green)
