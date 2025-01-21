@@ -31,3 +31,5 @@ Currently studying cybersecurity at St. Vincent college and on my own. Looking t
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calicojack1720&theme=github_dark" alt="calicojack1720's GitHub Stats"/>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calicojack1720&size_weight=0.5&count_weight=0.5&theme=transparent)
